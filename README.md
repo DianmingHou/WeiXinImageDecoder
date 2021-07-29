@@ -4,6 +4,6 @@
 
 # 程序参数说明  
 三个参数，
- - 第一个为该用户的微信文件夹，默认C:\Users\[系统用户名]\Documents\WeChat Files\wxid_[编码]\FileStorage\Image
+ - 第一个为该用户的微信文件夹，默认C:\Users\\[系统用户名]\Documents\WeChat Files\wxid_\[编码]\FileStorage\Image
  - 第二个参数为目标文件夹
  - 第三个参数为dat文件16进制首字节，并不是所有文件都满足，多查看几个找一个通用的。
